@@ -1,0 +1,21 @@
+From 4904e70cf33a9a7a1cba6ee0da4029e12dbe1920 Mon Sep 17 00:00:00 2001
+From: Redentor Nova <c_rnova@qti.qualcomm.com>
+Date: Sat, 1 Sep 2018 15:56:15 -0700
+Subject: added 6th line
+
+
+diff --git a/1st b/1st
+index f660ec4..98145c1 100644
+--- a/1st
++++ b/1st
+@@ -2,6 +2,8 @@ practiceing git
+ 
+ inserting 2ndest line
+ inserting 3rd line
+-iins
+ insert 4th line from remote
+-inert 5th line from remote
++inert 5th line from remot
++iinsert 6th line from local
++insert 7th line form local
++
