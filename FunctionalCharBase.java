@@ -18,7 +18,7 @@
 suite FN_MBURST_tk_atpg_int_lpu_top_AON_XMD_SVS calls COMMON.testmethods.digital.FunctionalCharTest{
 
      FuncChar [Vmin] = {
-      Start = 1.4 COMMIT 1;
+      Start = 1.4 COMMIT 2;
       Stop = 0.3;
       step = "-0.01";
       resolution = "0.005";
